@@ -1,9 +1,6 @@
 # 🌊 Animated Blob Component
 
 A highly customizable animated SVG blob component for React/Next.js. Create beautiful, organic shapes with smooth morphing, gradient effects, and extensive configuration options.
-
-![Animated Blob Demo](https://via.placeholder.com/800x400/6366f1/ffffff?text=Animated+Blob+Component)
-
 ---
 
 ## ✨ Features
