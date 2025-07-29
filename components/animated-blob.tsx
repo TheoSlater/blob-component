@@ -1,3 +1,8 @@
+// MIT Licensed – © 2025 Theo Slater
+// https://github.com/TheoSlater/blob-component
+// theoslater.xyz
+
+
 "use client"
 
 import type React from "react"
