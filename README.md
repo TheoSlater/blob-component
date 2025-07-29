@@ -334,4 +334,3 @@ MIT — see the [LICENSE](LICENSE) file for details.
 ---
 
 **Made with ❤️ for the React community.**  
-Check out the [demo page](https://your-demo-url.com) for more examples.
